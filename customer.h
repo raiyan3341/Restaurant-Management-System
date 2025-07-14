@@ -1,4 +1,4 @@
-
+//customer.h
 #ifndef CUSTOMER_H
 #define CUSTOMER_H
 #include "menu.h" 
